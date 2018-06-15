@@ -1,0 +1,27 @@
+﻿<Window x:Class="BookManagement.RegistrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManagement"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid VerticalAlignment="Center">
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Content="Логин" HorizontalAlignment="Center"/>
+        <TextBox Grid.Column="0" Grid.Row="1" x:Name="regLogin" Height="20"/>
+        <Label Grid.Column="0" Grid.Row="2" Content="Пароль" HorizontalAlignment="Center"/>
+        <TextBox Grid.Column="0" Grid.Row="3" x:Name="regPswd" Height="20"/>
+        <Button Grid.Column="0" Grid.Row="4" x:Name="regButton" HorizontalAlignment="Center" Content="Зарегистрироваться" Click="regButton_Click"/>
+    </Grid>
+</Window>

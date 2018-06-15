@@ -1,0 +1,38 @@
+c:\users\lenovo\source\repos\BookManagement\Source\bin\Debug\Source.dll
+c:\users\lenovo\source\repos\BookManagement\Source\bin\Debug\Source.pdb
+c:\users\lenovo\source\repos\BookManagement\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\BookManagement\Source\obj\Debug\Source.dll
+c:\users\lenovo\source\repos\BookManagement\Source\obj\Debug\Source.pdb
+C:\Users\lenovo\source\repos\BookManagement\Source\bin\Debug\Source.dll.config
+C:\Users\lenovo\source\repos\BookManagement\Source\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\BookManagement\Source\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\BookManagement\Source\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\BookManagement\Source\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\BookManagement\Source\obj\Debug\Source.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\BookManagement\Source\obj\Debug\Source.csproj.CopyComplete
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\Source.dll.config
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\Source.dll
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\Source.pdb
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Desktop\BookManagement\Source\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Илья\Desktop\BookManagement\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\BookManagement\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\BookManagement\Source\obj\Debug\Source.csproj.CopyComplete
+C:\Users\Илья\Desktop\BookManagement\Source\obj\Debug\Source.dll
+C:\Users\Илья\Desktop\BookManagement\Source\obj\Debug\Source.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\Source.dll.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\Source.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\Source.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\obj\Debug\Source.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\obj\Debug\Source.csproj.CopyComplete
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\obj\Debug\Source.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Source\obj\Debug\Source.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="BookManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManagement"
+        mc:Ignorable="d"
+        Title="Вход в систему" Height="350" Width="350" WindowStartupLocation="CenterScreen">
+
+    <Grid VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Content="Логин" />
+        <TextBox Grid.Row="1" Grid.Column="0" x:Name="authLogin" Height="20" Width="200"/>
+        <Label Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" Content="Пароль"/>
+        <TextBox Grid.Row="3" Grid.Column="0" x:Name="authPassword" Height="20" Width="200"/>
+        <Button Background="White"  Margin="0,10,0,0" Grid.Row="4" Grid.Column="0" x:Name="authEnterButton" Content="Войти" HorizontalAlignment="Center" Padding="10,0,10,0" Click="authEnterButton_Click"/>
+        <Button Background="White"  Margin="0,10,0,0"  Grid.Row="5" Grid.Column="0" x:Name="authRegButton" Content="Зарегестрироваться" HorizontalAlignment="Center" Padding="10,5,10,5" Click="authRegButton_Click"/>
+  </Grid>
+
+</Window>

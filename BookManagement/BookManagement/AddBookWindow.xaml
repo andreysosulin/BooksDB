@@ -1,0 +1,36 @@
+﻿<Window x:Class="BookManagement.AddBookWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManagement"
+        mc:Ignorable="d"
+        Title="Добавление книги" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Content="Выберите тему"/>
+        <ComboBox Grid.Column="0" Grid.Row="1" x:Name="comboThemes"/>
+        <Label Grid.Column="0" Grid.Row="2" Content="Выберите автора"/>
+        <ComboBox Grid.Column="0" Grid.Row="3" x:Name="comboAuthor"/>
+        <Label Grid.Column="0" Grid.Row="4" Content="Введите название книги"/>
+        <TextBox Grid.Column="0" Grid.Row="5" x:Name="textBoxBookName"/>
+        <Label Grid.Column="0" Grid.Row="6" Content="Введите описание книги"/>
+        <TextBox Grid.Column="0" Grid.Row="7" Grid.RowSpan="2" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" AcceptsReturn="True" x:Name="textBoxDescr"/>
+        <Button Grid.Column="0" Grid.Row="9" x:Name="buttonAddBook" Click="buttonAddBook_Click" Content="Добавить"/>
+    </Grid>
+    
+</Window>

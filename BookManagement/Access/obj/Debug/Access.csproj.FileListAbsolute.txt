@@ -1,0 +1,47 @@
+c:\users\lenovo\source\repos\BookManagement\Access\bin\Debug\Access.dll.config
+c:\users\lenovo\source\repos\BookManagement\Access\bin\Debug\Access.dll
+c:\users\lenovo\source\repos\BookManagement\Access\bin\Debug\Access.pdb
+c:\users\lenovo\source\repos\BookManagement\Access\bin\Debug\Source.dll
+c:\users\lenovo\source\repos\BookManagement\Access\bin\Debug\Source.pdb
+c:\users\lenovo\source\repos\BookManagement\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\BookManagement\Access\obj\Debug\Access.dll
+c:\users\lenovo\source\repos\BookManagement\Access\obj\Debug\Access.pdb
+C:\Users\lenovo\source\repos\BookManagement\Access\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\BookManagement\Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\BookManagement\Access\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\BookManagement\Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\BookManagement\Access\bin\Debug\Source.dll.config
+C:\Users\lenovo\source\repos\BookManagement\Access\obj\Debug\Access.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\BookManagement\Access\obj\Debug\Access.csproj.CopyComplete
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\Access.dll.config
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\Access.dll
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\Access.pdb
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\Source.dll
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\Source.pdb
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\Source.dll.config
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Desktop\BookManagement\Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Илья\Desktop\BookManagement\Access\obj\Debug\Access.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\BookManagement\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\BookManagement\Access\obj\Debug\Access.csproj.CopyComplete
+C:\Users\Илья\Desktop\BookManagement\Access\obj\Debug\Access.dll
+C:\Users\Илья\Desktop\BookManagement\Access\obj\Debug\Access.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Access.dll.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Access.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Access.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Source.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Source.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Source.dll.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\obj\Debug\Access.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\obj\Debug\Access.csproj.CopyComplete
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\obj\Debug\Access.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\Access\obj\Debug\Access.pdb

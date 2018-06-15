@@ -1,0 +1,158 @@
+c:\users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+c:\users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+c:\users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\App.g.cs
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.cache
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.lref
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\MainWindow.baml
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.g.resources
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.Cache
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+c:\users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Logic.dll
+c:\users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Logic.pdb
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\ManagementWindow.g.cs
+c:\users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\ManagementWindow.baml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Access.dll
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Source.dll
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Access.pdb
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Access.dll.config
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Source.pdb
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Logic.dll.config
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\bin\Debug\Source.dll.config
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\RegistrationWindow.g.cs
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\RegistrationWindow.baml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\AddThemeWindow.g.cs
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\AddThemeWindow.baml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.g.cs
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.baml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\AddBookWindow.g.cs
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\AddBookWindow.baml
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Access.dll
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Logic.dll
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Source.dll
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Access.pdb
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Access.dll.config
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Logic.pdb
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Logic.dll.config
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Source.pdb
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\Source.dll.config
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\AddBookWindow.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\AddThemeWindow.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\ManagementWindow.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\RegistrationWindow.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.cache
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.lref
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.baml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\AddBookWindow.baml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\AddThemeWindow.baml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\ManagementWindow.baml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\RegistrationWindow.baml
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.g.resources
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\lenovo\Desktop\букменеджмент\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Access.dll
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Logic.dll
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Source.dll
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Access.pdb
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Access.dll.config
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Logic.pdb
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Logic.dll.config
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Source.pdb
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\Source.dll.config
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\AddBookWindow.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\AddThemeWindow.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\ManagementWindow.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\RegistrationWindow.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\App.g.cs
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.cache
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.lref
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.baml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\AddBookWindow.baml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\AddThemeWindow.baml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\MainWindow.baml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\ManagementWindow.baml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\RegistrationWindow.baml
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.g.resources
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\Илья\Desktop\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Access.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Logic.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Source.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Access.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Access.dll.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Logic.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Logic.dll.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Source.pdb
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Source.dll.config
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\AddBookWindow.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\AddThemeWindow.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\ManagementWindow.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\RegistrationWindow.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement_MarkupCompile.lref
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\AddAuthorWindow.baml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\AddBookWindow.baml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\AddThemeWindow.baml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\ManagementWindow.baml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\RegistrationWindow.baml
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.g.resources
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\lenovo\Desktop\букменедж нью\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
